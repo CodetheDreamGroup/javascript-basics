@@ -75,6 +75,7 @@ Remove the other two files.
 ## Resources
 
 - [Mac/Unix/Linux Cheat Sheet on Command Line](http://learntocodewith.me/command-line/unix-command-cheat-sheet/)
+- [Another Mac/Unix/Linux Cheat Sheet on the Command Line] (https://www.git-tower.com/blog/command-line-cheat-sheet/)
 - [Windows Cheat Sheet on Command Prompt](http://www.cs.columbia.edu/~sedwards/classes/2017/1102-spring/Command%20Prompt%20Cheatsheet.pdf)
 
 A more extensive reference that will make you a command line master, but contains much more than required for this course.
