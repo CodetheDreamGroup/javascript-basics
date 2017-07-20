@@ -22,8 +22,3 @@
   * Data Types
   * Reuse
     * Variables
-* Creating a hello world file
-  * console.log
-  * string concatenation
-  * comments
-  * Have an error in a file
