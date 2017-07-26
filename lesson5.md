@@ -2,6 +2,7 @@
 
 ## Outline
 * Introductions
+* Questions about software development?
 * Review
     * null and undefined
     * while loops
