@@ -6,16 +6,12 @@
 * Review
     * null and undefined
     * while loops
-* Two new types
-    * null
-    * undefined
 * Arrays
     * Creation
     * Reading
     * Modifying
     * Getting the length
     * Enumerating arrays
-* Functions / Methods
   
 
 # Arrays
