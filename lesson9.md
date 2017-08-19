@@ -192,16 +192,3 @@ console.log(car.price); // 30000
 One of the reasons that object oriented programming works well as a model is that we are used to interacting with objects in the real world, so we have a good reference.
 
 Lets take a few minutes and choose a real world object to describe the properties of.
-
-
-## Object Uniqueness
-
-
-## Finding the Object Type
-You can get the type of an object with the `class` property.
-
-
-## References and Instances
-
-
-## Adding a Method to an object
