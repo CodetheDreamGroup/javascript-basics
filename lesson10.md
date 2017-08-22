@@ -7,7 +7,6 @@
   * Types review
 * Example complex program
 * Objects continued
-  * Object uniqueness
 
 
 
