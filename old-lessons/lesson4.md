@@ -72,7 +72,7 @@ foo === bar
 ```
 
 ## More details on logical expressions and nil
-[Zero or empty vs null](https://www.reddit.com/r/geek/comments/6128y3/amusing_example_between_0_and_null_0_on_the_left/)
+[Zero or empty vs null](https://www.reddit.com/r/geek/comments/6128y3/amusing_example_between_0_and_null_0_on_the_left/)  
 [Nothing](https://youtu.be/M5QGkOGZubQ)
 
 

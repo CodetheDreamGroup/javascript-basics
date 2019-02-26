@@ -35,7 +35,7 @@ Remember that the method to output characters to the screen is `console.log('<Te
 
 ### Greeting program
 
-Create a program in a file called greeting.js that outputs a hello message to the user when run.
+Create a program in a file called greeting.js that outputs a message to the user when run.
 
 Store the message to be output in a variable at the top of the file, and use that variable to output the message.
 
