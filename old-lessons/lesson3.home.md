@@ -61,7 +61,7 @@ Give the variables meaningful names so if somebody else read the code they could
 2. your name (as a string)
 3. the city you live in (as a string)
 
-Write some code that says "Hello my name is Bob, I'm 22 years old and I live in Raleigh."
+Write some code that says "Hello my name is <your name>, I'm <your age> years old and I live in <your city>."
 
 Remember, you can concatenate strings in JavaScript by using + between the strings, for example:
 
