@@ -16,9 +16,6 @@
 * Boolean type
 * Boolean comparison operators
     * comparison (==, <, <=, >, >=, !=)
-    * && (and)
-    * || (or)
-    * ! (not)
 * Type coercion Exercise
 * Type coercion
 * Strict (non-coercing) boolean comparison operators
@@ -109,56 +106,6 @@ There are only a few possibilities with logical boolean operations. The best thi
 2. !true
 
 
-## Combine it all together
-
-define the following variables:
-
-```javascript
-var age = 25;
-var ageText = age.toString();
-var office = "American Underground";
-var pi = 3.14;
-var zero = 0;
-var zeroString = "0";
-```
-
-Evaluate the following expressions
-
-1. `age > 10 && age < 20`
-2. `age > 20 && age < 30`
-3. `office.length > 20 || age < 12`
-4. `pi * 2 < 7`
-5. `!(office.length - 2 < 20)`
-6. `age === ageText`
-7. `age !== ageText`
-8. `!(age === ageText)`
-9. `!age`
-10. `!zero`
-11. `!zeroString`
-
-
-
-## Printing Exercise
-Remember that the method to output characters to the screen is `console.log('<Text to output>')`
-
-### Greeting program
-
-Create a program in a file called greeting.js that outputs a message to the user when run.
-
-Store the message to be output in a variable at the top of the file, and use that variable to output the message.
-
-
-## If statements
-
-What will the following program output:
-
-```javascript
-var name = "Bob Smith";
-if (name.length > 10) {
-    console.log("Your name is too long");
-}
-```
-
 ## Truthy and Falsy Exercise
 Run the following expressions in a JavaScript REPL. Don't worry if there are bits of the code you don't understand yet.
 Were the results what you expected?  
@@ -166,19 +113,20 @@ If not, which ones gave different results than expected?
 
 
 ```javascript
-false == "";
+if ("") {
+    console.log("An empty string is true?");
+}
 
-false == 0;
+if (!"") {
+    console.log("An empty string is false?");
+}
 
-true == "";
+if (!0) {
+    console.log("Zero is false?");
+}
 
-true == 0;
 
-true == 1;
-
-"0" == 0;
-
-true == "true";
-
-false == "false";
+if (42) {
+    console.log("The number 42 is true?");
+}
 ```
