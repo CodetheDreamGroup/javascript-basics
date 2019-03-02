@@ -19,7 +19,7 @@ Write a program that prints the odd numbers from 1 to 100.
 Write a program that prints the even numbers from 1 to 100.
 
 ## Celebrate birthdays
-Write a program that prints "Happy birthday. You are <age> years old." For each year from 1 to 65.
+Write a program that prints "Happy birthday. You are \<age\> years old." For each year from 1 to 65.
 
 In addition print the following statements when they match their age:  
 * When they are a teenage print `You are a teenage."
