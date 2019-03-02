@@ -50,7 +50,14 @@
 
 
 ## Lesson 5
-
+* Using JavaScript on the web
+    * document.write
+    * Running an html file in Cloud 9
+    * prompt
+* Comments
+    * Single line
+    * multi-line
+    * Using comments for thinking/planning
 
 
 
