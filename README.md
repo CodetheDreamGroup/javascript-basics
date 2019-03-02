@@ -26,32 +26,30 @@
     * Multi line comments  
     * Using comments to plan  
 * Boolean type
-* Boolean operators
-    * comparison (==, <, <=, >, >=, !=)
-    * && (and)
-    * || (or)
-    * ! (not)
+* Boolean comparison operators
 * Type coercion
 * Truthy and Falsy
-* Strict (non-converting) boolean operators
-    * (===, !==)
+* Strict (non-coercing) boolean operators
+* Boolean logical operators
+* if statements
+* Truthy and Falsy
 
 
 ## Lesson 4
-* Control statements
-    * If
-    * If...else
-    * If...else if...else
-* Block statements
-* Accidental assignment in conditional expressions
 * Two new types
     * null
     * undefined
+* Block statements
+* Control statements
+    * if
+    * if...else
+    * if...else if...else
+* Common mistake - accidental assignment
+* Looping
+    * while
 
 
 ## Lesson 5
-* Looping
-    * While
 
 
 
@@ -92,17 +90,6 @@ Potential topics to cover
 
 * Scope
 
-* Review
-    * Types
-    * Variables
-* Creating a hello world file
-    * console.log
-    * Have an error in a file
-
-* Review
-    * Creating and running files
-
-
 * Questions about software development?
 * Arrays
     * Creation
@@ -112,11 +99,10 @@ Potential topics to cover
     * Enumerating arrays
 
 * Functions
-
-* Review
-    * Functions
-    * Return values
     * Parameters
+    * Return values
+    * Arguments
+
 * Programming Concepts
     * Abstraction
     * Algorithms
@@ -180,10 +166,7 @@ Regular expressions.
 Dynamic typing.
 Weak typing.
 The typeof operator.
-The === and !== operators.
 Control statements.
-    If
-    While
     do...while
     for
     switch
