@@ -21,11 +21,11 @@ Write a program that prints the even numbers from 1 to 100.
 ## Celebrate birthdays
 Write a program that prints "Happy birthday. You are <age> years old." For each year from 1 to 65.
 
-In addition print the following statements when they match their age:
-    * When they are a teenage print `You are a teenage."
-    * When they turn 21 print "You can legally drink."
-    * When they turn 40 print "You are over the hill."
-    * When they turn 65 print "Happy retirement."
+In addition print the following statements when they match their age:  
+* When they are a teenage print `You are a teenage."
+* When they turn 21 print "You can legally drink."
+* When they turn 40 print "You are over the hill."
+* When they turn 65 print "Happy retirement."
 
 
 # Learning something new on your own
