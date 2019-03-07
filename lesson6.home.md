@@ -106,7 +106,7 @@ When they guess it correctly tell them how many tries it took to guess the numbe
 This one will need to be run in the browser since that is the only place we have learned to get user input so far.
 
 ```javascript
-var number = Math.floor(Math.Random() * 100);
+var number = Math.floor(Math.random() * 100);
 
 var guess = prompt("Guess what number I am thinking of from 0 to 99?");
 
