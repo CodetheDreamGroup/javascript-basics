@@ -147,12 +147,12 @@ So, to appeal to my own nerdy hobbies, today we will be creating a objects to re
 There are many potential RPG character properties  
 Lets start with the following properties
 
-* Name
+* name
 * Experience Points (xp)
-* Level
-* Class
-* Strength
-* Intelligence
+* level
+* characterClass
+* strength
+* intelligence
 
 ---
 
